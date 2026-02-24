@@ -52,6 +52,16 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
 
   ![diagram_dofa](DOFA_diagram.png)
 
+- **Mapa del problema**: Esta técnica es utilizada para mapear las relaciones causales de un problema complejo. Su objetivo no es representar un problema perfectamente, sino dar una claridad y sintesis sobre el problema inicial a través de sus posibles causas.
+
+    Para realizar un mapa de las causas de un problema es necesario seguir los siguientes pasos:
+
+  - **Tormenta de ideas para causas primarias y conceptos**: Se trata de definir las principales causas que generan el problema identificado.
+  - **Tormenta de ideas para causas secundarias**: El objetivo de este paso es identificar aquellas causas que provocan las causas de primer orden.
+  - **Agregar interrelaciones entre las causas**: En este paso se interrelacionan las diferentes causas, incluyendo relaciones entre causas de segundo orden.
+
+  ![diagram_problem_mapping](problem_mapping_diagram.png)
+
 ## Referencias
 
 - [Five Whys](https://en.wikipedia.org/wiki/Five_whys)
@@ -62,3 +72,4 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
 - [Problem Tree](https://mspguide.org/2022/03/18/problem-tree/)
 - [Problem Tree And Objective Tree](https://wikis.ec.europa.eu/spaces/ExactExternalWiki/pages/50109060/Problem+and+objective+tree)
 - [Guia DOFA](http://www.odontologia.unal.edu.co/docs/claustros-colegiaturas_2013-2015/Guia_Analisis_DOFA.pdf)
+- [Problem mapping](https://bryanlindsley.com/simple-guide-problem-mapping/)
