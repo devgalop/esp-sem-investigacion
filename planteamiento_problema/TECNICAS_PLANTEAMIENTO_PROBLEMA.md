@@ -6,9 +6,13 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
 
 - **Five Whys**: La técnica de los 5 por qué, es una técnica interrogativa usada para explorar las relaciones entre las causas y efector de un problema particular.
 
-    El objetivo de este método es determinar la causa raíz del problema a través de 5 iteraciones con la pregunta ¿por qué?.
+  El objetivo de este método es determinar la causa raíz del problema a través de 5 iteraciones con la pregunta ¿por qué?.
 
-    ![diagrama_five_whys](five_whys_diagram.png)
+  - **Ventajas**: La principal ventaja de la aproximación de los 5 por qué es ser altamente efectiva en escenarios de poca o mediana complejidad. Es una técnica simple y muy rápida, permite identificar las causas principales, es una técnica versatil y al enfocarse en las causas raiz, previene repetir la solución multiples veces.
+
+  - **Limitaciones**: Su principal limitación es que cuando existen problemas complejos o que tienen multiples variables relacionadas, no aporta mucho valor. Es una técnica subjetiva, si la técnica es mal aplicada, puede que no resuelva los problemas de raiz. Depende mucho de realizar las preguntas correctas.
+
+  ![diagrama_five_whys](five_whys_diagram.png)
 
 - **Diagrama de Ishikawa**: Es un diagrama causal que muestra las potenciales causas de un evento especifico y su efecto. Esta es una de las herramientas más usadas para la gestión de calidad.
 
@@ -32,9 +36,13 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
 
 - **Árbol del problema**: El árbol de problema es una herramienta gráfica que permite establecer relaciones de causa y efecto. Esta técnica ayuda a estructurar en una jerarquía los problemas identificados.
 
-    El árbol del problema, permite segregar el problema en diferentes causas, lo que permite priorización y enfoque de objetivos. Adicionalmente, permite identificar el problema central.
+  El árbol del problema, permite segregar el problema en diferentes causas, lo que permite priorización y enfoque de objetivos. Adicionalmente, permite identificar el problema central.
 
-    ![diagram_problem_tree](problem_tree_diagram.png)
+  - **Ventajas**: Su principal ventaja es que permite estructurar un problema complejo en partes manejables. Esta aproximación es colaborativa, requiere que todas las partes interesadas compartan la misma visión del problema. Se enfoca en las causas raiz del problema. Es fácil para ilustrar un problema.
+
+  - **Limitaciones**: La principal limitación de esta técnica es sobre simplificar el problema omitiendo partes importantes y sobre todo esta técnica no permite dimensionar la magnitud de cada causa o efecto del problema lo cual hace dificil la priorización.
+
+  ![diagram_problem_tree](problem_tree_diagram.png)
 
 - **Matriz DOFA**: Es un marco de trabajo estrategico que permite evaluar desde una organización, un producto y hasta un proyecto. En esta técnica se propone la identificación de las siguientes categorías:
 
@@ -54,11 +62,15 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
 
 - **Mapa del problema**: Esta técnica es utilizada para mapear las relaciones causales de un problema complejo. Su objetivo no es representar un problema perfectamente, sino dar una claridad y sintesis sobre el problema inicial a través de sus posibles causas.
 
-    Para realizar un mapa de las causas de un problema es necesario seguir los siguientes pasos:
+  Para realizar un mapa de las causas de un problema es necesario seguir los siguientes pasos:
 
   - **Tormenta de ideas para causas primarias y conceptos**: Se trata de definir las principales causas que generan el problema identificado.
   - **Tormenta de ideas para causas secundarias**: El objetivo de este paso es identificar aquellas causas que provocan las causas de primer orden.
   - **Agregar interrelaciones entre las causas**: En este paso se interrelacionan las diferentes causas, incluyendo relaciones entre causas de segundo orden.
+
+  - **Ventajas**: La principal ventaja de esta aproximación es poder dar manejo a problemas complejos, identificando las causas raiz y las relaciones entre las causas. Permite visualizar facilmente la complejidad del problema, Es fácil de entender el problema a través de sus relaciones, expone las areas en las cuales debe existir una investigación o mejora.
+
+  - **Limitaciones**: Su principal desventaja es que toma mucho tiempo en construir el mapa con todas las posibles relaciones entre las causas, es un diagrama muy subjetivo. Si se aplica mal, el diagrama puede volverse muy complejo para una visión rápida del problema. Hay un riesgo alto de caer en la generalización del problema o sus causas.
 
   ![diagram_problem_mapping](problem_mapping_diagram.png)
 
