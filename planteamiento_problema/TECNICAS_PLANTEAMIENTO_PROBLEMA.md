@@ -12,11 +12,23 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
 
   - **Limitaciones**: Su principal limitación es que cuando existen problemas complejos o que tienen multiples variables relacionadas, no aporta mucho valor. Es una técnica subjetiva, si la técnica es mal aplicada, puede que no resuelva los problemas de raiz. Depende mucho de realizar las preguntas correctas.
 
+  - **Cuándo usarla**: Se debe usar cuando te enfrentes a un problema lineal, de baja complejidad, donde necesitas una respuesta rápida. Es ideal para situaciones reactivas donde la relación causa-efecto es directa y no requiere análisis estadísticos profundos.
+
+    **Ejemplo**: Un estudiante reprobó el examen de programación.
+
   ![diagrama_five_whys](five_whys_diagram.png)
 
 - **Diagrama de Ishikawa**: Es un diagrama causal que muestra las potenciales causas de un evento especifico y su efecto. Esta es una de las herramientas más usadas para la gestión de calidad.
 
-    Este diagrama permite identificar muchas posibles causas de un problema, ordenandolas dentro de categorias.
+  Este diagrama permite identificar muchas posibles causas de un problema, ordenandolas dentro de categorias.
+
+  - **Ventajas**: Ayuda a visualizar de forma estructurada las causas principales y secundarias de un problema, evitando quedarse solo en los síntomas. Fomenta el análisis profundo y el trabajo en equipo al categorizar el *brainstorming* (por ejemplo, en personas, procesos, tecnología, etc.).
+
+  - **Limitaciones**: Puede volverse visualmente desordenado y demasiado complejo si el problema tiene demasiadas causas menores. Además, no prioriza las causas ni muestra la magnitud del impacto de cada una, y no siempre distingue entre una simple correlación y una causalidad real.
+
+  - **Cuándo usarla**: Se utiliza cuando el problema es claramente multifactorial y necesitas estructurar una sesión de lluvia de ideas. Es indicada cuando sospechas que la falla proviene de una combinación de áreas distintas y necesitas categorizarlas para no perder ninguna de vista.
+
+      **Ejemplo**: La página web de inscripción de materias de la universidad se cae todos los semestres.
 
     ![diagram_fish_bone](fish_bone_diagram.png)
 
@@ -31,6 +43,14 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
   - **H**ow much: ¿Cuánto costará?
 
     Esta herramienta funciona a través de formatos tipo *checklist* compuestas de las 7 preguntas. El objetivo principal de esto es eliminar las dudas sobre como es el progreso de una actividad, de esta manera se permite una ejecución clara y simple.
+  
+  - **Ventajas**: Es una herramienta extremadamente estructurada y exhaustiva. Asegura que no se pasen por alto detalles importantes al planificar o analizar una situación. Al ser un formato tipo lista de verificación, es fácil de entender, estandarizar y aplicar por cualquier miembro del equipo.
+
+  - **Limitaciones**: Puede resultar una técnica demasiado rígida o burocrática para problemas muy simples o en entornos ágiles. Además, se enfoca mucho más en la operatividad y ejecución (el "qué" y el "cómo") que en el descubrimiento profundo de causas raíz de problemas muy complejos. 
+
+  - **Cuándo usarla**: Se debe utilizar cuando ya has diagnosticado el problema, ya tienes una solución en mente y necesitas pasar a la fase de ejecución. Es la técnica correcta cuando tu objetivo es crear un plan de acción libre de ambigüedades, asegurando que todos los involucrados sepan exactamente qué hacer, cuándo, cómo y con qué presupuesto.
+
+  **Ejemplo**: Organizar un Hackathon en la facultad para practicar.
 
     ![diagram_5w2h](5W2H_diagram.png)
 
@@ -41,6 +61,10 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
   - **Ventajas**: Su principal ventaja es que permite estructurar un problema complejo en partes manejables. Esta aproximación es colaborativa, requiere que todas las partes interesadas compartan la misma visión del problema. Se enfoca en las causas raiz del problema. Es fácil para ilustrar un problema.
 
   - **Limitaciones**: La principal limitación de esta técnica es sobre simplificar el problema omitiendo partes importantes y sobre todo esta técnica no permite dimensionar la magnitud de cada causa o efecto del problema lo cual hace dificil la priorización.
+
+  - **Cuándo usarla**: Se utiliza en las fases iniciales de diseño de un proyecto. Es la opción correcta cuando necesitas definir un objetivo central claro y tienes la necesidad estricta de separar los síntomas de las causas estructurales.
+
+    **Ejemplo**: Analizar el problema de "Alta deserción en el curso de Algoritmos".
 
   ![diagram_problem_tree](problem_tree_diagram.png)
 
@@ -58,6 +82,14 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
   - **Estrategias y acciones DA**: Su enfoque es minimizar el peligro potencial donde las debilidades se encuentran con las amenazas.
   - **Estrategias y acciones FA**: Están dirigidas a prevenir el impacto de las amenazas a partir de las fortalezas existentes.
 
+  - **Ventajas**: Proporciona una visión integral al cruzar factores internos de control propio (fortalezas y debilidades) con factores externos del entorno (oportunidades y amenazas). Facilita la toma de decisiones al permitir formular estrategias accionables de forma directa basadas en el cruce de categorías.
+
+  - **Limitaciones**: Tiende a ser un análisis muy subjetivo, fuertemente influenciado por los sesgos de quienes lo elaboran. Frecuentemente produce listas de factores sin una priorización clara ni ponderación matemática de su impacto real. Si no se respalda con datos cuantitativos, puede quedarse en un análisis superficial.
+
+  - **Cuándo usarla**: Se usa en la fase de planeación estratégica. Es indispensable cuando necesitas evaluar el estado actual de un proyecto, producto u organización antes de tomar una decisión importante, obligándote a mirar tanto el panorama interno como el entorno externo.
+
+      **Ejemplo**: Un estudiante está decidiendo si debería invertir sus vacaciones en aprender un lenguaje de programación nuevo y difícil.
+
   ![diagram_dofa](DOFA_diagram.png)
 
 - **Mapa del problema**: Esta técnica es utilizada para mapear las relaciones causales de un problema complejo. Su objetivo no es representar un problema perfectamente, sino dar una claridad y sintesis sobre el problema inicial a través de sus posibles causas.
@@ -71,6 +103,10 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
   - **Ventajas**: La principal ventaja de esta aproximación es poder dar manejo a problemas complejos, identificando las causas raiz y las relaciones entre las causas. Permite visualizar facilmente la complejidad del problema, Es fácil de entender el problema a través de sus relaciones, expone las areas en las cuales debe existir una investigación o mejora.
 
   - **Limitaciones**: Su principal desventaja es que toma mucho tiempo en construir el mapa con todas las posibles relaciones entre las causas, es un diagrama muy subjetivo. Si se aplica mal, el diagrama puede volverse muy complejo para una visión rápida del problema. Hay un riesgo alto de caer en la generalización del problema o sus causas.
+
+  - **Cuándo usarla**: Se debe usar cuando te enfrentes a problemas sistémicos, caóticos o altamente complejos. Es la técnica obligatoria cuando sabes que las causas no son aisladas, sino que están interconectadas y forman ciclos.
+
+      **Ejemplo**: Analizar el agotamiento extremo en los estudiantes de último semestre.
 
   ![diagram_problem_mapping](problem_mapping_diagram.png)
 
