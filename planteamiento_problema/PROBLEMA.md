@@ -82,48 +82,48 @@ Los estudiantes de programación experimentan un **bajo dominio de habilidades f
 
 ## Planteamiento del problema
 
-Los estudiantes de programación experimentan un **bajo dominio de habilidades fundamentales** debido a la **ausencia de una guía estructurada y personalizada** que responda a sus necesidades individuales, lo que **limita la identificación y superación oportuna de sus debilidades técnicas**.
+Los estudiantes de programación experimentan un **bajo dominio de habilidades fundamentales** debido a la **ausencia de una guía estructurada y personalizada** que responda a sus necesidades individuales, lo que **limita la identificación y superación oportuna de sus debilidades técnicas**. Mediante la aplicación de la técnica de los 5 Porqués, se ha determinado que la causa raíz de este fenómeno no es la falta de material educativo, sino la carencia de herramientas tecnológicas que automaticen el diagnóstico y la creación de rutas de aprendizaje adaptativas. Esta situación se consolida como el núcleo de un Árbol de Problemas donde la estandarización de la enseñanza impide cerrar brechas de conocimiento específicas.
 
 ## Consecuencias
 
-- **Bajo rendimiento académico**: La falta de personalización en el proceso de enseñanza impide que el estudiante identifique oportunamente los vacíos en su conocimiento, lo que repercute negativamente en su rendimiento académico.
+- **Bajo rendimiento académico**: Según el análisis de causas y efectos, la falta de personalización en el proceso de enseñanza impide que el estudiante identifique oportunamente los vacíos en su conocimiento, lo que repercute negativamente en su rendimiento académico.
 
-- **Dificultad para resolver problemas**: La ausencia de identificación y fortalecimiento de las debilidades técnicas limita la capacidad del estudiante para resolver problemas complejos aplicando adecuadamente los fundamentos de programación.
+- **Dificultad para resolver problemas**: La ausencia de identificación y fortalecimiento de las debilidades técnicas limita la capacidad del estudiante para resolver problemas complejos aplicando adecuadamente los fundamentos de programación, afectando su pensamiento lógico.
 
-- **Desmotivación y frustración**: El bajo dominio de los contenidos genera inseguridad, desinterés y frustración, lo que puede derivar en bajo compromiso académico o incluso en deserción.
+- **Desmotivación y frustración**: El bajo dominio de los contenidos genera inseguridad, desinterés y frustración, lo que, como se evidencia en el Mapa del Problema, suele derivar en bajo compromiso académico o incluso en deserción.
 
-- **Falta de autonomía**: La presencia de vacíos en los fundamentos de programación dificulta el desarrollo de la autonomía en el aprendizaje y en la resolución independiente de problemas.
+- **Falta de autonomía**: La presencia de vacíos en los fundamentos de programación dificulta el desarrollo de la autonomía en el aprendizaje y en la resolución independiente de problemas, obligando al estudiante a depender de soluciones genéricas.
 
-- **Pérdida de enfoque**: Al no tener claridad sobre sus debilidades y necesidades de mejora, los estudiantes pueden perder el enfoque en sus objetivos de aprendizaje.
+- **Pérdida de enfoque**: Al no tener claridad sobre sus debilidades y necesidades de mejora, los estudiantes pueden perder el enfoque en sus objetivos de aprendizaje al no percibir un progreso tangible.
 
 ## Impacto
 
 - **Impacto académico**: Se reduce la calidad del proceso formativo en el logro de competencias clave, como el pensamiento lógico, la resolución de problemas y el desarrollo de software eficiente.
 
-- **Impacto profesional**: Los estudiantes que presentan competencias técnicas deficientes disminuyen su competitividad en el mercado laboral y enfrentan dificultades para adaptarse a los constantes cambios tecnológicos.
+- **Impacto profesional**: Los estudiantes con competencias técnicas deficientes disminuyen su competitividad en el mercado laboral y enfrentan dificultades para adaptarse a los constantes cambios tecnológicos y a las exigencias de la industria actual.
 
-- **Impacto social y tecnológico**: A largo plazo, las debilidades en los fundamentos de programación pueden repercutir en la calidad de los productos tecnológicos desarrollados, afectando los niveles de innovación y eficiencia en el sector.
+- **Impacto social y tecnológico**: A largo plazo, las debilidades en los fundamentos de programación pueden repercutir en la calidad de los productos tecnológicos desarrollados, afectando los niveles de innovación, seguridad y eficiencia en el sector productivo.
 
 ## Contextualización
 
 - **¿En qué sector ocurre el problema?**: El problema se presenta en el sector educativo, específicamente en el ámbito de la formación en programación y desarrollo de software.
 
-- **¿En qué tipo de organización?**: El problema se manifiesta en instituciones educativas que imparten formación en programación, tanto en modalidad presencial como virtual.
+- **¿En qué tipo de organización?**: El problema se manifiesta en instituciones de educación superior, centros de formación técnica y plataformas de aprendizaje autónomo, operando tanto en modalidades presenciales como virtuales.
 
-- **¿A qué escala?**: El problema se presenta a escala institucional, aunque puede extrapolarse a un contexto educativo más amplio, dado que la enseñanza de programación enfrenta desafíos similares en múltiples entornos formativos.
+- **¿A qué escala?**: El problema ocurre a escala institucional, pero como se evidencia en el Mapa del Problema, es extrapolable a un contexto global debido a la estandarización de los recursos educativos genéricos que no logran adaptarse a las brechas individuales del estudiante.
 
 - **¿Qué actores están involucrados?**: Los principales actores involucrados son estudiantes, docentes, la institución e indirectamente el sector productivo que espera profesionales con bases técnicas solidas.
 
-- **¿Cuál es el contexto tecnológico actual?**: En el contexto actual, donde la inteligencia artificial está transformando el desarrollo de software, el dominio de los fundamentos de programación se vuelve aún más relevante. El uso de herramientas automatizadas no sustituye el conocimiento técnico, sino que exige mayor comprensión para evaluar, modificar y optimizar el código generado, lo que incrementa la demanda de una formación sólida en competencias básicas.
+- **¿Cuál es el contexto tecnológico actual?**: En el contexto actual, donde la inteligencia artificial está transformando el desarrollo de software, el dominio de los fundamentos de programación se vuelve aún más relevante. El análisis de 5 Porqués revela que, el uso de herramientas automatizadas no sustituye el conocimiento técnico, sino que exige mayor comprensión para evaluar, modificar y optimizar el código generado, lo que incrementa la demanda de una formación sólida en competencias básicas.
 
 ## Justificación
 
-- **¿Por qué es importante resolverlo?**: Es fundamental abordar este problema debido a que la inteligencia artificial está transformando la manera en que se desarrolla software. En el contexto actual, el rol del programador ha evolucionado de ser únicamente un generador de código a convertirse en un profesional capaz de analizar, validar, optimizar y garantizar la calidad del software producido. Por esto, para el programador es indispensable contar con fundamentos sólidos en programación, pensamiento lógico y buenas prácticas de desarrollo.
+- **¿Por qué es importante resolverlo?**: Es fundamental abordar este problema debido a que la inteligencia artificial está transformando la manera en que se desarrolla software. Como se identificó en el Árbol de Problemas, el rol del programador ha evolucionado de ser únicamente un generador de código a convertirse en un profesional capaz de analizar, validar, optimizar y garantizar la calidad del software producido. Por esto, para el programador es indispensable contar con fundamentos sólidos en programación, pensamiento lógico y buenas prácticas de desarrollo.
 
-- **¿Cuál es el impacto económico, operativo o social?**: Contar con desarrolladores mejor preparados impacta positivamente en la creación de soluciones tecnológicas más seguras, eficientes e innovadoras, favoreciendo la transformación digital y el desarrollo sostenible de la sociedad.
+- **¿Cuál es el impacto económico, operativo o social?**: Al mitigar la causa raíz detectada en los 5 Porqués, se impacta positivamente en la formación de desarrolladores competitivos. Esto favorece la creación de soluciones tecnológicas seguras y eficientes, impulsando la transformación digital y reduciendo los costos operativos derivados de la deserción académica y la baja calidad en la producción de software.
 
 - **¿Por qué el enfoque desde Ingeniería de Software es pertinente?**: La incorporación de herramientas basadas en inteligencia artificial permite diseñar soluciones que personalicen el proceso de aprendizaje, identifiquen debilidades técnicas y generen retroalimentación estructurada.
 
 - **¿Qué aporta la solución frente al estado actual?**: Permite a los estudiantes identificar de manera temprana sus debilidades técnicas y recibir recomendaciones específicas para fortalecerlas. A diferencia del modelo tradicional, donde el seguimiento suele ser generalizado, la solución introduce un enfoque personalizado y apoyado en tecnología, promoviendo un aprendizaje más eficiente, autónomo y orientado a resultados.
 
-- **Texto propuesto**: En el contexto actual de transformación digital y creciente incorporación de inteligencia artificial en el desarrollo de software, se identifica una problemática relacionada con el bajo dominio de competencias fundamentales, originada por la carencia de estrategias estructuradas y personalizadas que atiendan las necesidades individuales de los estudiantes. Esta situación limita la identificación oportuna de debilidades técnicas, afecta el rendimiento académico y genera desmotivación, pérdida de enfoque y baja autonomía en el aprendizaje. En este escenario tecnológico, fortalecer los fundamentos se vuelve imprescindible para formar profesionales capaces de evaluar, adaptar y optimizar soluciones con criterios de calidad.
+- **Texto propuesto**: En el contexto actual de transformación digital y creciente incorporación de inteligencia artificial en el desarrollo de software, se identifica una problemática relacionada con el bajo dominio de competencias fundamentales, originada por la carencia de estrategias estructuradas y personalizadas que atiendan las necesidades individuales de los estudiantes. Esta situación, analizada mediante el Árbol de Problemas, se limita la identificación oportuna de debilidades técnicas, afecta el rendimiento académico y genera desmotivación, pérdida de enfoque y baja autonomía en el aprendizaje. En este escenario tecnológico, fortalecer los fundamentos se vuelve imprescindible para formar profesionales capaces de evaluar, adaptar y optimizar soluciones con criterios de calidad.
