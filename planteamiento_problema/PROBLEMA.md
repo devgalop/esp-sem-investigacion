@@ -117,3 +117,24 @@ Este problema se presenta principalmente en el sector educativo, particularmente
 Las consecuencias de esta situación se reflejan en el bajo rendimiento académico, la repetición de asignaturas y, en algunos casos, la deserción en programas relacionados con el desarrollo de software. Además, la dificultad para consolidar estas habilidades puede limitar la formación de profesionales con las competencias necesarias para responder a las demandas tecnológicas actuales, lo que representa un desafío tanto para las instituciones educativas como para el desarrollo del talento humano en el área tecnológica.
 
 En este contexto, el desarrollo de herramientas tecnológicas desde la Ingeniería de Software representa una oportunidad para apoyar el proceso de aprendizaje. La implementación de un tutor inteligente orientado a analizar el desempeño de los estudiantes, identificar sus debilidades técnicas en los fundamentos del desarrollo de software y proporcionar recomendaciones de estudio personalizadas puede contribuir a fortalecer el aprendizaje y mejorar el desarrollo de competencias en programación.
+
+## Pregunta de investigación
+
+¿Cómo puede un tutor inteligente identificar tempranamente las debilidades de los estudiantes en los fundamentos del desarrollo de software y proporcionar rutas de aprendizaje personalizadas para fortalecer su proceso de aprendizaje?
+
+## Hipotesis
+
+El uso de un tutor inteligente que proporcione rutas de aprendizaje personalizadas
+contribuirá al fortalecimiento de los conocimientos en los fundamentos del desarrollo de software en estudiantes de programación.
+
+## Objetivos
+
+- **Objetivo general**: Fortalecer el dominio de los fundamentos del desarrollo de software mediante un tutor inteligente que identifique debilidades y genere rutas de aprendizaje personalizadas.
+
+- **Objetivos específicos**:
+
+  - Evaluar el conocimiento en fundamentos de programación mediante encuestas, ejercicios de programación y cuestionarios técnicos.
+
+  - Identificar debilidades técnicas de los estudiantes haciendo uso de los resultados de las evaluaciones realizadas por los estudiantes.
+
+  - Generar rutas de aprendizaje personalizadas de acuerdo a las debilidades identificadas en cada estudiante.
